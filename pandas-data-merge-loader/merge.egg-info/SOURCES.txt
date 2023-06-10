@@ -1,0 +1,10 @@
+LICENCE.txt
+README.md
+setup.py
+merge/__init__.py
+merge/main.py
+merge.egg-info/PKG-INFO
+merge.egg-info/SOURCES.txt
+merge.egg-info/dependency_links.txt
+merge.egg-info/entry_points.txt
+merge.egg-info/top_level.txt

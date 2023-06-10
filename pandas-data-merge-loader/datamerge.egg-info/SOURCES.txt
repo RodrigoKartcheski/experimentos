@@ -1,0 +1,10 @@
+LICENCE.txt
+README.md
+setup.py
+datamerge/__init__.py
+datamerge/datamerge.py
+datamerge.egg-info/PKG-INFO
+datamerge.egg-info/SOURCES.txt
+datamerge.egg-info/dependency_links.txt
+datamerge.egg-info/entry_points.txt
+datamerge.egg-info/top_level.txt
