@@ -1,2 +1,2 @@
 [console_scripts]
-datamerge = datamerge.DataMergeLoader
+datamerge = datamerge.DataMergeLoader:main
