@@ -6,11 +6,11 @@ import os
 
 setup(
     name='datamerge',
-    version='0.1.3',
+    version='0.1.5',
     packages=['datamerge'],
     entry_points={
         'console_scripts': [
-            'datamerge=datamerge.DataMergeLoader:main'
+            'datamerge=datamerge.main:main'
         ]
     }
 )
